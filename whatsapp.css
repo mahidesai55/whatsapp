@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.whatsapp1{
+    background-color: #28bd98;
+    text-align: center;
+}
+.icon1{
+    padding: 0 0 0 85rem;
+    
+}
+.icon1{
+    font-size: 50px;
+}
+.icon2{
+    font-size: 100px;
+}
+.hp h3{
+    font-size: 50px;
+    padding: 10px;
+}
+.hp p{
+    font-size: 28px;
+    padding:0 0px 30px 0;
+}
+.googlelogo img{
+    width: 300px;
+    padding-bottom: 20px;
+}
+.business{
+    background-color: rgb(181, 254, 254);
+    text-align: center;
+}
+.business h2{
+    font-size: 60px;
+    padding: 50px;
+}
+.business p{
+    font-size: 28px;
+    padding:0 0 30px 0;
+}
+.hello{
+    background-color: rgb(250, 230, 204);
+    color:black;
+    font-size: 20px;
+    text-align: center;
+}
+.hello .hello1{
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: aqua;
+    border: 1px solid #FFF;
+    margin:0px 90px;
+    transform: translate(600px,20px);
+}
+.hello h3, h1, p{
+    padding:20px 0px;
+}
+.explore a{
+    background-color: rgb(231, 25, 25);
+    color:aqua;
+    border:1px solid aqua;
+    border-radius: 10px;
+    padding:20px;
+    text-decoration: none;
+    display: inline-block;
+}
+.explore{
+    
+    padding:50px;
+    margin:0 600px;
+}
+.explore a:hover{
+    background-color: blue;
+}
+.companys{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(116, 110, 110);
+    height: 500px;
+    font-size: 30px;
+    align-items: center;
+
+
+}
+.company h2{
+    color:white;
+}
+.company{
+    list-style: none;
+    color:white;
+}
+hr{
+    color:aqua;
+}
+.foot{
+    font-size: 20px;
+    padding: 40px;
+    background-color: rgb(133, 128, 128);
+}
+.hello1{
+    padding-top: 60px;
+}
